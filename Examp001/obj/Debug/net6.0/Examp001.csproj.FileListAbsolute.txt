@@ -1,0 +1,15 @@
+C:\Users\d1ko\Desktop\lection2\Examp001\bin\Debug\net6.0\Examp001.exe
+C:\Users\d1ko\Desktop\lection2\Examp001\bin\Debug\net6.0\Examp001.deps.json
+C:\Users\d1ko\Desktop\lection2\Examp001\bin\Debug\net6.0\Examp001.runtimeconfig.json
+C:\Users\d1ko\Desktop\lection2\Examp001\bin\Debug\net6.0\Examp001.dll
+C:\Users\d1ko\Desktop\lection2\Examp001\bin\Debug\net6.0\Examp001.pdb
+C:\Users\d1ko\Desktop\lection2\Examp001\obj\Debug\net6.0\Examp001.csproj.AssemblyReference.cache
+C:\Users\d1ko\Desktop\lection2\Examp001\obj\Debug\net6.0\Examp001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d1ko\Desktop\lection2\Examp001\obj\Debug\net6.0\Examp001.AssemblyInfoInputs.cache
+C:\Users\d1ko\Desktop\lection2\Examp001\obj\Debug\net6.0\Examp001.AssemblyInfo.cs
+C:\Users\d1ko\Desktop\lection2\Examp001\obj\Debug\net6.0\Examp001.csproj.CoreCompileInputs.cache
+C:\Users\d1ko\Desktop\lection2\Examp001\obj\Debug\net6.0\Examp001.dll
+C:\Users\d1ko\Desktop\lection2\Examp001\obj\Debug\net6.0\refint\Examp001.dll
+C:\Users\d1ko\Desktop\lection2\Examp001\obj\Debug\net6.0\Examp001.pdb
+C:\Users\d1ko\Desktop\lection2\Examp001\obj\Debug\net6.0\Examp001.genruntimeconfig.cache
+C:\Users\d1ko\Desktop\lection2\Examp001\obj\Debug\net6.0\ref\Examp001.dll
